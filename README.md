@@ -11,9 +11,9 @@ Manajemen tugas dilakukan secara intensif pada setiap repositori untuk memastika
 
 Oleh karena itu, setiap progres pengerjaan dapat dipantau secara mendalam melalui tautan terpisah di bawah ini:
 
-* 📂 **[Project Board - Backend](https://github.com/GusthiPangestu1906/2026-peminjaman-ruangan-backend/projects/1)**
-* 📂 **[Project Board - Mobile](https://github.com/GusthiPangestu1906/2026-peminjaman-ruangan-mobile/projects/1)**
-* 📂 **[Project Board - Frontend](https://github.com/GusthiPangestu1906/2026-peminjaman-ruangan-frontend/projects/1)**
+* 📂 **[Project Board - Backend](https://github.com/users/GusthiPangestu1906/projects/2/views/1)**
+* 📂 **[Project Board - Mobile](https://github.com/users/GusthiPangestu1906/projects/5)**
+* 📂 **[Project Board - Frontend](https://github.com/users/GusthiPangestu1906/projects/3)**
 
 Meskipun akses link terpisah, seluruh workflow tetap mengikuti standar yang sama dengan pelacakan *Issue* dan *Pull Request* yang disiplin.
 
