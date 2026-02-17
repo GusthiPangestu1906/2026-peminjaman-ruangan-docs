@@ -4,6 +4,21 @@ Selamat datang di repositori dokumentasi pusat untuk **Sistem Peminjaman Ruangan
 
 ---
 
+## 📊 Project Management & Tracking
+Manajemen tugas dilakukan secara intensif pada setiap repositori untuk memastikan kualitas pengembangan yang spesifik.
+
+> **⚠️ Catatan Akses:** > Dikarenakan kebijakan teknis GitHub saat ini, Project Board untuk setiap lini pengembangan (Frontend, Mobile, dan Backend) **belum dapat digabungkan ke dalam satu link tunggal**. 
+
+Oleh karena itu, setiap progres pengerjaan dapat dipantau secara mendalam melalui tautan terpisah di bawah ini:
+
+* 📂 **[Project Board - Backend](https://github.com/GusthiPangestu1906/2026-peminjaman-ruangan-backend/projects/1)**
+* 📂 **[Project Board - Mobile](https://github.com/GusthiPangestu1906/2026-peminjaman-ruangan-mobile/projects/1)**
+* 📂 **[Project Board - Frontend](https://github.com/GusthiPangestu1906/2026-peminjaman-ruangan-frontend/projects/1)**
+
+Meskipun akses link terpisah, seluruh workflow tetap mengikuti standar yang sama dengan pelacakan *Issue* dan *Pull Request* yang disiplin.
+
+---
+
 ## 🚀 Ekosistem Proyek
 Proyek ini terdiri dari beberapa repositori yang saling terintegrasi:
 * **[Backend API](https://github.com/GusthiPangestu1906/2026-peminjaman-ruangan-backend)**: Dibangun dengan ASP.NET Core 10.
